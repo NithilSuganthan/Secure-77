@@ -19,6 +19,12 @@
       "username": "OsamaBinNithil",
       "password": "$2b$10$IxVFfRB1gzhO4gTb0cZwhuf8eQ5dPCPLv..ECj8yXoQxB/qaA8/li",
       "createdAt": "2025-10-15T02:36:55.270Z"
+    },
+    {
+      "id": "1760497906455",
+      "username": "Hackelite",
+      "password": "$2b$10$kcsEIxEhNy4P9ZEsv8SPD.XI2VSRun39s3YPu0QlTas3wFxTxmJBi",
+      "createdAt": "2025-10-15T03:11:46.455Z"
     }
   ],
   "transfers": []
