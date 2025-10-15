@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "username": "nithil",
+      "password": "$2b$10$1Xrp9MdKWjk.8ElOKvaUa.x09LtM.dq7I9oojmMzfMEfoxtzHjfcO"
+    },
+    {
+      "username": "rohan",
+      "password": "$2b$10$2iAI4RHzr96UELxD4gEbTedoCBY1EUqqbxP75etI9UjSmoY1XUunO"
+    },
+    {
+      "id": "1760488005886",
+      "username": "testuser",
+      "password": "$2b$10$5ZhHg4xu1ttjUuOcu.ch7ep5dgpd3hxg14oSTrdvpvCUj0aQgx5r.",
+      "createdAt": "2025-10-15T00:26:45.886Z"
+    },
+    {
+      "id": "1760495815270",
+      "username": "OsamaBinNithil",
+      "password": "$2b$10$IxVFfRB1gzhO4gTb0cZwhuf8eQ5dPCPLv..ECj8yXoQxB/qaA8/li",
+      "createdAt": "2025-10-15T02:36:55.270Z"
+    }
+  ],
+  "transfers": []
+}
