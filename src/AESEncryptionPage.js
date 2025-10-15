@@ -180,7 +180,7 @@ function AESEncryptionPage() {
 
 
   return (
-    <div className="app-container">
+    <div className="app-container aes-page">
       <div className="app-header">
         <h1 className="app-title">Secure77 AES-256 File Encryption Suite</h1>
         <p className="app-subtitle">

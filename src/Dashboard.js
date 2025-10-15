@@ -31,7 +31,7 @@ function Dashboard() {
   ];
 
   return (
-    <div className="app-container">
+    <div className="app-container dashboard-page">
       <div className="app-header">
         <div className="header-top">
           <div className="header-content">

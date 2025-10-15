@@ -104,7 +104,7 @@ function SteganographyPage() {
   };
 
   return (
-    <div className="app-container">
+    <div className="app-container steganography-page">
       <div className="app-header">
         <h1 className="app-title">🔐 Advanced Steganography Suite</h1>
         <p className="app-subtitle">

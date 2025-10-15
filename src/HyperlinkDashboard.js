@@ -234,7 +234,7 @@ function HyperlinkDashboard() {
   };
 
   return (
-    <div className="app-container">
+    <div className="app-container hyperlink-page">
       <div className="app-header">
         <h1 className="app-title">🔗 Secure77 Hyperlink Steganography</h1>
         <p className="app-subtitle">

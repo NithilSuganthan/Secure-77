@@ -25,6 +25,12 @@
       "username": "Hackelite",
       "password": "$2b$10$kcsEIxEhNy4P9ZEsv8SPD.XI2VSRun39s3YPu0QlTas3wFxTxmJBi",
       "createdAt": "2025-10-15T03:11:46.455Z"
+    },
+    {
+      "id": "1760502652503",
+      "username": "soy.exe",
+      "password": "$2b$10$ttEN34E1JSdqlf0DusCt/.L9OvDfsaFSVAVUqczABm3gDEjtkH4K6",
+      "createdAt": "2025-10-15T04:30:52.503Z"
     }
   ],
   "transfers": []

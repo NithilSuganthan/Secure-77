@@ -106,7 +106,7 @@ function FileTransferPage() {
   };
 
   return (
-    <div className="app-container">
+    <div className="app-container transfer-page">
       <div className="app-header">
         <h1 className="app-title">Secure77 File Transfer</h1>
         <p className="app-subtitle">
